@@ -1,0 +1,16 @@
+name: protectio
+channels:
+  - defaults
+dependencies:
+  - python=3.8
+  - regex
+  - wget
+  - pip
+  - pip:
+    - einops
+    - transformers==4.29.2
+    - peft
+    - omegaconf
+    - torch
+    - evaluate
+    - accelerate
