@@ -1,0 +1,574 @@
+
+Exon 1 coordinates: 17:43124017..43124096:-1
+Exon 1 sequence: ATGGATTTATCTGCTCTTCGCGTTGAAGAAGTACAAAATGTCATTAATGCTATGCAGAAAATCTTAGAGTGTCCCATCTG
+
+Exon 2 coordinates: 17:43115726..43115779:-1
+Exon 2 sequence: TCTGGAGTTGATCAAGGAACCTGTCTCCACAAAGTGTGACCACATATTTTGCAA
+
+Exon 3 coordinates: 17:43106456..43106533:-1
+Exon 3 sequence: ATTTTGCATGCTGAAACTTCTCAACCAGAAGAAAGGGCCTTCACAGTGTCCTTTATGTAAGAATGATATAACCAAAAG
+
+Exon 4 coordinates: 17:43104868..43104956:-1
+Exon 4 sequence: GAGCCTACAAGAAAGTACGAGATTTAGTCAACTTGTTGAAGAGCTATTGAAAATCATTTGTGCTTTTCAGCTTGACACAGGTTTGGAGT
+
+Exon 5 coordinates: 17:43104122..43104261:-1
+Exon 5 sequence: ATGCAAACAGCTATAATTTTGCAAAAAAGGAAAATAACTCTCCTGAACATCTAAAAGATGAAGTTTCTATCATCCAAAGTATGGGCTACAGAAACCGTGCCAAAAGACTTCTACAGAGTGAACCCGAAAATCCTTCCTTG
+
+Exon 6 coordinates: 17:43099775..43099880:-1
+Exon 6 sequence: CAGGAAACCAGTCTCAGTGTCCAACTCTCTAACCTTGGAACTGTGAGAACTCTGAGGACAAAGCAGCGGATACAACCTCAAAAGACGTCTGTCTACATTGAATTGG
+
+Exon 7 coordinates: 17:43097244..43097289:-1
+Exon 7 sequence: GATCTGATTCTTCTGAAGATACCGTTAATAAGGCAACTTATTGCAG
+
+Exon 8 coordinates: 17:43095846..43095922:-1
+Exon 8 sequence: TGTGGGAGATCAAGAATTGTTACAAATCACCCCTCAAGGAACCAGGGATGAAATCAGTTTGGATTCTGCAAAAAAGG
+
+Exon 9 coordinates: 17:43091435..43094860:-1
+Exon 9 sequence: CTGCTTGTGAATTTTCTGAGACGGATGTAACAAATACTGAACATCATCAACCCAGTAATAATGATTTGAACACCACTGAGAAGCGTGCAGCTGAGAGGCATCCAGAAAAGTATCAGGGTAGTTCTGTTTCAAACTTGCATGTGGAGCCATGTGGCACAAATACTCATGCCAGCTCATTACAGCATGAGAACAGCAGTTTATTACTCACTAAAGACAGAATGAATGTAGAAAAGGCTGAATTCTGTAATAAAAGCAAACAGCCTGGCTTAGCAAGGAGCCAACATAACAGATGGGCTGGAAGTAAGGAAACATGTAATGATAGGCGGACTCCCAGCACAGAAAAAAAGGTAGATCTGAATGCTGATCCCCTGTGTGAGAGAAAAGAATGGAATAAGCAGAAACTGCCATGCTCAGAGAATCCTAGAGATACTGAAGATGTTCCTTGGATAACACTAAATAGCAGCATTCAGAAAGTTAATGAGTGGTTTTCCAGAAGTGATGAACTGTTAGGTTCTGATGACTCACATGATGGGGAGTCTGAATCAAATGCCAAAGTAGCTGATGTATTGGACGTTCTAAATGAGGTAGATGAATATTCTGGTTCTTCAGAGAAAATAGACTTACTGGCCAGTGATCCTCATGAGGCTTTAATATGTAAAAGTGAAAGAGTTCACTCCAAATCAGTAGAGAGTAATATTGAAGACAAAATATTTGGGAAAACCTATCGGAAGAAGGCAAGCCTCCCCAACTTAAGCCATGTAACTGAAAATCTAATTATAGGAGCATTTGTTACTGAGCCACAGATAATACAAGAGCGTCCCCTCACAAATAAATTAAAGCGTAAAAGGAGACCTACATCAGGCCTTCATCCTGAGGATTTTATCAAGAAAGCAGATTTGGCAGTTCAAAAGACTCCTGAAATGATAAATCAGGGAACTAACCAAACGGAGCAGAATGGTCAAGTGATGAATATTACTAATAGTGGTCATGAGAATAAAACAAAAGGTGATTCTATTCAGAATGAGAAAAATCCTAACCCAATAGAATCACTCGAAAAAGAATCTGCTTTCAAAACGAAAGCTGAACCTATAAGCAGCAGTATAAGCAATATGGAACTCGAATTAAATATCCACAATTCAAAAGCACCTAAAAAGAATAGGCTGAGGAGGAAGTCTTCTACCAGGCATATTCATGCGCTTGAACTAGTAGTCAGTAGAAATCTAAGCCCACCTAATTGTACTGAATTGCAAATTGATAGTTGTTCTAGCAGTGAAGAGATAAAGAAAAAAAAGTACAACCAAATGCCAGTCAGGCACAGCAGAAACCTACAACTCATGGAAGGTAAAGAACCTGCAACTGGAGCCAAGAAGAGTAACAAGCCAAATGAACAGACAAGTAAAAGACATGACAGCGATACTTTCCCAGAGCTGAAGTTAACAAATGCACCTGGTTCTTTTACTAAGTGTTCAAATACCAGTGAACTTAAAGAATTTGTCAATCCTAGCCTTCCAAGAGAAGAAAAAGAAGAGAAACTAGAAACAGTTAAAGTGTCTAATAATGCTGAAGACCCCAAAGATCTCATGTTAAGTGGAGAAAGGGTTTTGCAAACTGAAAGATCTGTAGAGAGTAGCAGTATTTCATTGGTACCTGGTACTGATTATGGCACTCAGGAAAGTATCTCGTTACTGGAAGTTAGCACTCTAGGGAAGGCAAAAACAGAACCAAATAAATGTGTGAGTCAGTGTGCAGCATTTGAAAACCCCAAGGGACTAATTCATGGTTGTTCCAAAGATAATAGAAATGACACAGAAGGCTTTAAGTATCCATTGGGACATGAAGTTAACCACAGTCGGGAAACAAGCATAGAAATGGAAGAAAGTGAACTTGATGCTCAGTATTTGCAGAATACATTCAAGGTTTCAAAGCGCCAGTCATTTGCTCCGTTTTCAAATCCAGGAAATGCAGAAGAGGAATGTGCAACATTCTCTGCCCACTCTGGGTCCTTAAAGAAACAAAGTCCAAAAGTCACTTTTGAATGTGAACAAAAGGAAGAAAATCAAGGAAAGAATGAGTCTAATATCAAGCCTGTACAGACAGTTAATATCACTGCAGGCTTTCCTGTGGTTGGTCAGAAAGATAAGCCAGTTGATAATGCCAAATGTAGTATCAAAGGAGGCTCTAGGTTTTGTCTATCATCTCAGTTCAGAGGCAACGAAACTGGACTCATTACTCCAAATAAACATGGACTTTTACAAAACCCATATCGTATACCACCACTTTTTCCCATCAAGTCATTTGTTAAAACTAAATGTAAGAAAAATCTGCTAGAGGAAAACTTTGAGGAACATTCAATGTCACCTGAAAGAGAAATGGGAAATGAGAACATTCCAAGTACAGTGAGCACAATTAGCCGTAATAACATTAGAGAAAATGTTTTTAAAGAAGCCAGCTCAAGCAATATTAATGAAGTAGGTTCCAGTACTAATGAAGTGGGCTCCAGTATTAATGAAATAGGTTCCAGTGATGAAAACATTCAAGCAGAACTAGGTAGAAACAGAGGGCCAAAATTGAATGCTATGCTTAGATTAGGGGTTTTGCAACCTGAGGTCTATAAACAAAGTCTTCCTGGAAGTAATTGTAAGCATCCTGAAATAAAAAAGCAAGAATATGAAGAAGTAGTTCAGACTGTTAATACAGATTTCTCTCCATATCTGATTTCAGATAACTTAGAACAGCCTATGGGAAGTAGTCATGCATCTCAGGTTTGTTCTGAGACACCTGATGACCTGTTAGATGATGGTGAAATAAAGGAAGATACTAGTTTTGCTGAAAATGACATTAAGGAAAGTTCTGCTGTTTTTAGCAAAAGCGTCCAGAAAGGAGAGCTTAGCAGGAGTCCTAGCCCTTTCACCCATACACATTTGGCTCAGGGTTACCGAAGAGGGGCCAAGAAATTAGAGTCCTCAGAAGAGAACTTATCTAGTGAGGATGAAGAGCTTCCCTGCTTCCAACACTTGTTATTTGGTAAAGTAAACAATATACCTTCTCAGTCTACTAGGCATAGCACCGTTGCTACCGAGTGTCTGTCTAAGAACACAGAGGAGAATTTATTATCATTGAAGAATAGCTTAAATGACTGCAGTAACCAGGTAATATTGGCAAAGGCATCTCAGGAACATCACCTTAGTGAGGAAACAAAATGTTCTGCTAGCTTGTTTTCTTCACAGTGCAGTGAATTGGAAGACTTGACTGCAAATACAAACACCCAGGATCCTTTCTTGATTGGTTCTTCCAAACAAATGAGGCATCAGTCTGAAAGCCAGGGAGTTGGTCTGAGTGACAAGGAATTGGTTTCAGATGATGAAGAAAGAGGAACGGGCTTGGAAGAAAATAATCAAGAAGAGCAAAGCATGGATTCAAACTTAG
+
+Exon 10 coordinates: 17:43090944..43091032:-1
+Exon 10 sequence: GTGAAGCAGCATCTGGGTGTGAGAGTGAAACAAGCGTCTCTGAAGACTGCTCAGGGCTATCCTCTCAGAGTGACATTTTAACCACTCAG
+
+Exon 11 coordinates: 17:43082404..43082575:-1
+Exon 11 sequence: CAGAGGGATACCATGCAACATAACCTGATAAAGCTCCAGCAGGAAATGGCTGAACTAGAAGCTGTGTTAGAACAGCATGGGAGCCAGCCTTCTAACAGCTACCCTTCCATCATAAGTGACTCTTCTGCCCTTGAGGACCTGCGAAATCCAGAACAAAGCACATCAGAAAAAG
+
+Exon 12 coordinates: 17:43076488..43076614:-1
+Exon 12 sequence: CAGTATTAACTTCACAGAAAAGTAGTGAATACCCTATAAGCCAGAATCCAGAAGGCCTTTCTGCTGACAAGTTTGAGGTGTCTGCAGATAGTTCTACCAGTAAAAATAAAGAACCAGGAGTGGAAAG
+
+Exon 13 coordinates: 17:43074331..43074521:-1
+Exon 13 sequence: GTCATCCCCTTCTAAATGCCCATCATTAGATGATAGGTGGTACATGCACAGTTGCTCTGGGAGTCTTCAGAATAGAAACTACCCATCTCAAGAGGAGCTCATTAAGGTTGTTGATGTGGAGGAGCAACAGCTGGAAGAGTCTGGGCCACACGATTTGACGGAAACATCTTACTTGCCAAGGCAAGATCTAG
+
+Exon 14 coordinates: 17:43070928..43071238:-1
+Exon 14 sequence: AGGGAACCCCTTACCTGGAATCTGGAATCAGCCTCTTCTCTGATGACCCTGAATCTGATCCTTCTGAAGACAGAGCCCCAGAGTCAGCTCGTGTTGGCAACATACCATCTTCAACCTCTGCATTGAAAGTTCCCCAATTGAAAGTTGCAGAATCTGCCCAGAGTCCAGCTGCTGCTCATACTACTGATACTGCTGGGTATAATGCAATGGAAGAAAGTGTGAGCAGGGAGAAGCCAGAATTGACAGCTTCAACAGAAAGGGTCAACAAAAGAATGTCCATGGTGGTGTCTGGCCTGACCCCAGAAGAATTT
+
+Exon 15 coordinates: 17:43067608..43067695:-1
+Exon 15 sequence: ATGCTCGTGTACAAGTTTGCCAGAAAACACCACATCACTTTAACTAATCTAATTACTGAAGAGACTACTCATGTTGTTATGAAAACAG
+
+Exon 16 coordinates: 17:43063874..43063951:-1
+Exon 16 sequence: ATGCTGAGTTTGTGTGTGAACGGACACTGAAATATTTTCTAGGAATTGCGGGAGGAAAATGGGTAGTTAGCTATTTCT
+
+Exon 17 coordinates: 17:43063333..43063373:-1
+Exon 17 sequence: GGGTGACCCAGTCTATTAAAGAAAGAAAAATGCTGAATGAG
+
+Exon 18 coordinates: 17:43057052..43057135:-1
+Exon 18 sequence: CATGATTTTGAAGTCAGAGGAGATGTGGTCAATGGAAGAAACCACCAAGGTCCAAAGCGAGCAAGAGAATCCCAGGACAGAAAG
+
+Exon 19 coordinates: 17:43051063..43051117:-1
+Exon 19 sequence: ATCTTCAGGGGGCTAGAAATCTGTTGCTATGGGCCCTTCACCAACATGCCCACAG
+
+Exon 20 coordinates: 17:43049121..43049194:-1
+Exon 20 sequence: ATCAACTGGAATGGATGGTACAGCTGTGTGGTGCTTCTGTGGTGAAGGAGCTTTCATCATTCACCCTTGGCACA
+
+Exon 21 coordinates: 17:43047643..43047703:-1
+Exon 21 sequence: GGTGTCCACCCAATTGTGGTTGTGCAGCCAGATGCCTGGACAGAGGACAATGGCTTCCATG
+
+Exon 22 coordinates: 17:43045678..43045802:-1
+Exon 22 sequence: CAATTGGGCAGATGTGTGAGGCACCTGTGGTGACCCGAGAGTGGGTGTTGGACAGTGTAGCACTCTACCAGTGCCAGGAGCTGGACACCTACCTGATACCCCAGATCCCCCACAGCCACTACTGA
+Merged CDS sequence: ATGGATTTATCTGCTCTTCGCGTTGAAGAAGTACAAAATGTCATTAATGCTATGCAGAAAATCTTAGAGTGTCCCATCTGTCTGGAGTTGATCAAGGAACCTGTCTCCACAAAGTGTGACCACATATTTTGCAAATTTTGCATGCTGAAACTTCTCAACCAGAAGAAAGGGCCTTCACAGTGTCCTTTATGTAAGAATGATATAACCAAAAGGAGCCTACAAGAAAGTACGAGATTTAGTCAACTTGTTGAAGAGCTATTGAAAATCATTTGTGCTTTTCAGCTTGACACAGGTTTGGAGTATGCAAACAGCTATAATTTTGCAAAAAAGGAAAATAACTCTCCTGAACATCTAAAAGATGAAGTTTCTATCATCCAAAGTATGGGCTACAGAAACCGTGCCAAAAGACTTCTACAGAGTGAACCCGAAAATCCTTCCTTGCAGGAAACCAGTCTCAGTGTCCAACTCTCTAACCTTGGAACTGTGAGAACTCTGAGGACAAAGCAGCGGATACAACCTCAAAAGACGTCTGTCTACATTGAATTGGGATCTGATTCTTCTGAAGATACCGTTAATAAGGCAACTTATTGCAGTGTGGGAGATCAAGAATTGTTACAAATCACCCCTCAAGGAACCAGGGATGAAATCAGTTTGGATTCTGCAAAAAAGGCTGCTTGTGAATTTTCTGAGACGGATGTAACAAATACTGAACATCATCAACCCAGTAATAATGATTTGAACACCACTGAGAAGCGTGCAGCTGAGAGGCATCCAGAAAAGTATCAGGGTAGTTCTGTTTCAAACTTGCATGTGGAGCCATGTGGCACAAATACTCATGCCAGCTCATTACAGCATGAGAACAGCAGTTTATTACTCACTAAAGACAGAATGAATGTAGAAAAGGCTGAATTCTGTAATAAAAGCAAACAGCCTGGCTTAGCAAGGAGCCAACATAACAGATGGGCTGGAAGTAAGGAAACATGTAATGATAGGCGGACTCCCAGCACAGAAAAAAAGGTAGATCTGAATGCTGATCCCCTGTGTGAGAGAAAAGAATGGAATAAGCAGAAACTGCCATGCTCAGAGAATCCTAGAGATACTGAAGATGTTCCTTGGATAACACTAAATAGCAGCATTCAGAAAGTTAATGAGTGGTTTTCCAGAAGTGATGAACTGTTAGGTTCTGATGACTCACATGATGGGGAGTCTGAATCAAATGCCAAAGTAGCTGATGTATTGGACGTTCTAAATGAGGTAGATGAATATTCTGGTTCTTCAGAGAAAATAGACTTACTGGCCAGTGATCCTCATGAGGCTTTAATATGTAAAAGTGAAAGAGTTCACTCCAAATCAGTAGAGAGTAATATTGAAGACAAAATATTTGGGAAAACCTATCGGAAGAAGGCAAGCCTCCCCAACTTAAGCCATGTAACTGAAAATCTAATTATAGGAGCATTTGTTACTGAGCCACAGATAATACAAGAGCGTCCCCTCACAAATAAATTAAAGCGTAAAAGGAGACCTACATCAGGCCTTCATCCTGAGGATTTTATCAAGAAAGCAGATTTGGCAGTTCAAAAGACTCCTGAAATGATAAATCAGGGAACTAACCAAACGGAGCAGAATGGTCAAGTGATGAATATTACTAATAGTGGTCATGAGAATAAAACAAAAGGTGATTCTATTCAGAATGAGAAAAATCCTAACCCAATAGAATCACTCGAAAAAGAATCTGCTTTCAAAACGAAAGCTGAACCTATAAGCAGCAGTATAAGCAATATGGAACTCGAATTAAATATCCACAATTCAAAAGCACCTAAAAAGAATAGGCTGAGGAGGAAGTCTTCTACCAGGCATATTCATGCGCTTGAACTAGTAGTCAGTAGAAATCTAAGCCCACCTAATTGTACTGAATTGCAAATTGATAGTTGTTCTAGCAGTGAAGAGATAAAGAAAAAAAAGTACAACCAAATGCCAGTCAGGCACAGCAGAAACCTACAACTCATGGAAGGTAAAGAACCTGCAACTGGAGCCAAGAAGAGTAACAAGCCAAATGAACAGACAAGTAAAAGACATGACAGCGATACTTTCCCAGAGCTGAAGTTAACAAATGCACCTGGTTCTTTTACTAAGTGTTCAAATACCAGTGAACTTAAAGAATTTGTCAATCCTAGCCTTCCAAGAGAAGAAAAAGAAGAGAAACTAGAAACAGTTAAAGTGTCTAATAATGCTGAAGACCCCAAAGATCTCATGTTAAGTGGAGAAAGGGTTTTGCAAACTGAAAGATCTGTAGAGAGTAGCAGTATTTCATTGGTACCTGGTACTGATTATGGCACTCAGGAAAGTATCTCGTTACTGGAAGTTAGCACTCTAGGGAAGGCAAAAACAGAACCAAATAAATGTGTGAGTCAGTGTGCAGCATTTGAAAACCCCAAGGGACTAATTCATGGTTGTTCCAAAGATAATAGAAATGACACAGAAGGCTTTAAGTATCCATTGGGACATGAAGTTAACCACAGTCGGGAAACAAGCATAGAAATGGAAGAAAGTGAACTTGATGCTCAGTATTTGCAGAATACATTCAAGGTTTCAAAGCGCCAGTCATTTGCTCCGTTTTCAAATCCAGGAAATGCAGAAGAGGAATGTGCAACATTCTCTGCCCACTCTGGGTCCTTAAAGAAACAAAGTCCAAAAGTCACTTTTGAATGTGAACAAAAGGAAGAAAATCAAGGAAAGAATGAGTCTAATATCAAGCCTGTACAGACAGTTAATATCACTGCAGGCTTTCCTGTGGTTGGTCAGAAAGATAAGCCAGTTGATAATGCCAAATGTAGTATCAAAGGAGGCTCTAGGTTTTGTCTATCATCTCAGTTCAGAGGCAACGAAACTGGACTCATTACTCCAAATAAACATGGACTTTTACAAAACCCATATCGTATACCACCACTTTTTCCCATCAAGTCATTTGTTAAAACTAAATGTAAGAAAAATCTGCTAGAGGAAAACTTTGAGGAACATTCAATGTCACCTGAAAGAGAAATGGGAAATGAGAACATTCCAAGTACAGTGAGCACAATTAGCCGTAATAACATTAGAGAAAATGTTTTTAAAGAAGCCAGCTCAAGCAATATTAATGAAGTAGGTTCCAGTACTAATGAAGTGGGCTCCAGTATTAATGAAATAGGTTCCAGTGATGAAAACATTCAAGCAGAACTAGGTAGAAACAGAGGGCCAAAATTGAATGCTATGCTTAGATTAGGGGTTTTGCAACCTGAGGTCTATAAACAAAGTCTTCCTGGAAGTAATTGTAAGCATCCTGAAATAAAAAAGCAAGAATATGAAGAAGTAGTTCAGACTGTTAATACAGATTTCTCTCCATATCTGATTTCAGATAACTTAGAACAGCCTATGGGAAGTAGTCATGCATCTCAGGTTTGTTCTGAGACACCTGATGACCTGTTAGATGATGGTGAAATAAAGGAAGATACTAGTTTTGCTGAAAATGACATTAAGGAAAGTTCTGCTGTTTTTAGCAAAAGCGTCCAGAAAGGAGAGCTTAGCAGGAGTCCTAGCCCTTTCACCCATACACATTTGGCTCAGGGTTACCGAAGAGGGGCCAAGAAATTAGAGTCCTCAGAAGAGAACTTATCTAGTGAGGATGAAGAGCTTCCCTGCTTCCAACACTTGTTATTTGGTAAAGTAAACAATATACCTTCTCAGTCTACTAGGCATAGCACCGTTGCTACCGAGTGTCTGTCTAAGAACACAGAGGAGAATTTATTATCATTGAAGAATAGCTTAAATGACTGCAGTAACCAGGTAATATTGGCAAAGGCATCTCAGGAACATCACCTTAGTGAGGAAACAAAATGTTCTGCTAGCTTGTTTTCTTCACAGTGCAGTGAATTGGAAGACTTGACTGCAAATACAAACACCCAGGATCCTTTCTTGATTGGTTCTTCCAAACAAATGAGGCATCAGTCTGAAAGCCAGGGAGTTGGTCTGAGTGACAAGGAATTGGTTTCAGATGATGAAGAAAGAGGAACGGGCTTGGAAGAAAATAATCAAGAAGAGCAAAGCATGGATTCAAACTTAGGTGAAGCAGCATCTGGGTGTGAGAGTGAAACAAGCGTCTCTGAAGACTGCTCAGGGCTATCCTCTCAGAGTGACATTTTAACCACTCAGCAGAGGGATACCATGCAACATAACCTGATAAAGCTCCAGCAGGAAATGGCTGAACTAGAAGCTGTGTTAGAACAGCATGGGAGCCAGCCTTCTAACAGCTACCCTTCCATCATAAGTGACTCTTCTGCCCTTGAGGACCTGCGAAATCCAGAACAAAGCACATCAGAAAAAGCAGTATTAACTTCACAGAAAAGTAGTGAATACCCTATAAGCCAGAATCCAGAAGGCCTTTCTGCTGACAAGTTTGAGGTGTCTGCAGATAGTTCTACCAGTAAAAATAAAGAACCAGGAGTGGAAAGGTCATCCCCTTCTAAATGCCCATCATTAGATGATAGGTGGTACATGCACAGTTGCTCTGGGAGTCTTCAGAATAGAAACTACCCATCTCAAGAGGAGCTCATTAAGGTTGTTGATGTGGAGGAGCAACAGCTGGAAGAGTCTGGGCCACACGATTTGACGGAAACATCTTACTTGCCAAGGCAAGATCTAGAGGGAACCCCTTACCTGGAATCTGGAATCAGCCTCTTCTCTGATGACCCTGAATCTGATCCTTCTGAAGACAGAGCCCCAGAGTCAGCTCGTGTTGGCAACATACCATCTTCAACCTCTGCATTGAAAGTTCCCCAATTGAAAGTTGCAGAATCTGCCCAGAGTCCAGCTGCTGCTCATACTACTGATACTGCTGGGTATAATGCAATGGAAGAAAGTGTGAGCAGGGAGAAGCCAGAATTGACAGCTTCAACAGAAAGGGTCAACAAAAGAATGTCCATGGTGGTGTCTGGCCTGACCCCAGAAGAATTTATGCTCGTGTACAAGTTTGCCAGAAAACACCACATCACTTTAACTAATCTAATTACTGAAGAGACTACTCATGTTGTTATGAAAACAGATGCTGAGTTTGTGTGTGAACGGACACTGAAATATTTTCTAGGAATTGCGGGAGGAAAATGGGTAGTTAGCTATTTCTGGGTGACCCAGTCTATTAAAGAAAGAAAAATGCTGAATGAGCATGATTTTGAAGTCAGAGGAGATGTGGTCAATGGAAGAAACCACCAAGGTCCAAAGCGAGCAAGAGAATCCCAGGACAGAAAGATCTTCAGGGGGCTAGAAATCTGTTGCTATGGGCCCTTCACCAACATGCCCACAGATCAACTGGAATGGATGGTACAGCTGTGTGGTGCTTCTGTGGTGAAGGAGCTTTCATCATTCACCCTTGGCACAGGTGTCCACCCAATTGTGGTTGTGCAGCCAGATGCCTGGACAGAGGACAATGGCTTCCATGCAATTGGGCAGATGTGTGAGGCACCTGTGGTGACCCGAGAGTGGGTGTTGGACAGTGTAGCACTCTACCAGTGCCAGGAGCTGGACACCTACCTGATACCCCAGATCCCCCACAGCCACTACTGA
+
+Searching for residues where C->T mutation affects the amino acid...
+
+Residue at position 12 (Q) with codon CAA is affected by C->T mutation:
+Genomic coordinates for substrate sequence: 17:43124061..43124063 (strand: -1)
+Genomic sequence for substrate sequence: CTCTTCGCGTTGAAGAAGTACAAAATGTCATTAATGCTAT
+Relative amino acid position [0-1]: 0.0059
+
+Residue at position 19 (Q) with codon CAG is affected by C->T mutation:
+Genomic coordinates for substrate sequence: 17:43124040..43124042 (strand: -1)
+Genomic sequence for substrate sequence: AAAATGTCATTAATGCTATGCAGAAAATCTTAGAGTGTCC
+Relative amino acid position [0-1]: 0.00966
+
+Residue at position 54 (Q) with codon CAG is affected by C->T mutation:
+Genomic coordinates for substrate sequence: 17:43106506..43106508 (strand: -1)
+Genomic sequence for substrate sequence: GCATGCTGAAACTTCTCAACCAGAAGAAAGGGCCTTCACA
+Relative amino acid position [0-1]: 0.02845
+
+Residue at position 60 (Q) with codon CAG is affected by C->T mutation:
+Genomic coordinates for substrate sequence: 17:43106488..43106490 (strand: -1)
+Genomic sequence for substrate sequence: ACCAGAAGAAAGGGCCTTCACAGTGTCCTTTATGTAAGAA
+Relative amino acid position [0-1]: 0.03167
+
+Residue at position 74 (Q) with codon CAA is affected by C->T mutation:
+Genomic coordinates for substrate sequence: 17:43104947..43104949 (strand: -1)
+Genomic sequence for substrate sequence: AATTTAATTTCAGGAGCCTACAAGAAAGTACGAGATTTAG
+Relative amino acid position [0-1]: 0.03918
+
+Residue at position 81 (Q) with codon CAA is affected by C->T mutation:
+Genomic coordinates for substrate sequence: 17:43104926..43104928 (strand: -1)
+Genomic sequence for substrate sequence: AAGAAAGTACGAGATTTAGTCAACTTGTTGAAGAGCTATT
+Relative amino acid position [0-1]: 0.04294
+
+Residue at position 94 (Q) with codon CAG is affected by C->T mutation:
+Genomic coordinates for substrate sequence: 17:43104887..43104889 (strand: -1)
+Genomic sequence for substrate sequence: TGAAAATCATTTGTGCTTTTCAGCTTGACACAGGTTTGGA
+Relative amino acid position [0-1]: 0.04992
+
+Residue at position 126 (Q) with codon CAA is affected by C->T mutation:
+Genomic coordinates for substrate sequence: 17:43104185..43104187 (strand: -1)
+Genomic sequence for substrate sequence: AAGATGAAGTTTCTATCATCCAAAGTATGGGCTACAGAAA
+Relative amino acid position [0-1]: 0.0671
+
+Residue at position 139 (Q) with codon CAG is affected by C->T mutation:
+Genomic coordinates for substrate sequence: 17:43104146..43104148 (strand: -1)
+Genomic sequence for substrate sequence: ACCGTGCCAAAAGACTTCTACAGAGTGAACCCGAAAATCC
+Relative amino acid position [0-1]: 0.07407
+
+Residue at position 148 (Q) with codon CAG is affected by C->T mutation:
+Genomic coordinates for substrate sequence: 17:43099878..43099880 (strand: -1)
+Genomic sequence for substrate sequence: TTCTTTACCATACTGTTTAGCAGGAAACCAGTCTCAGTGT
+Relative amino acid position [0-1]: 0.0789
+
+Residue at position 155 (Q) with codon CAA is affected by C->T mutation:
+Genomic coordinates for substrate sequence: 17:43099857..43099859 (strand: -1)
+Genomic sequence for substrate sequence: AGGAAACCAGTCTCAGTGTCCAACTCTCTAACCTTGGAAC
+Relative amino acid position [0-1]: 0.08266
+
+Residue at position 169 (Q) with codon CAG is affected by C->T mutation:
+Genomic coordinates for substrate sequence: 17:43099815..43099817 (strand: -1)
+Genomic sequence for substrate sequence: TGAGAACTCTGAGGACAAAGCAGCGGATACAACCTCAAAA
+Relative amino acid position [0-1]: 0.09018
+
+Residue at position 172 (Q) with codon CAA is affected by C->T mutation:
+Genomic coordinates for substrate sequence: 17:43099806..43099808 (strand: -1)
+Genomic sequence for substrate sequence: TGAGGACAAAGCAGCGGATACAACCTCAAAAGACGTCTGT
+Relative amino acid position [0-1]: 0.09179
+
+Residue at position 174 (Q) with codon CAA is affected by C->T mutation:
+Genomic coordinates for substrate sequence: 17:43099800..43099802 (strand: -1)
+Genomic sequence for substrate sequence: CAAAGCAGCGGATACAACCTCAAAAGACGTCTGTCTACAT
+Relative amino acid position [0-1]: 0.09286
+
+Residue at position 202 (Q) with codon CAA is affected by C->T mutation:
+Genomic coordinates for substrate sequence: 17:43095910..43095912 (strand: -1)
+Genomic sequence for substrate sequence: TTCCCTATAGTGTGGGAGATCAAGAATTGTTACAAATCAC
+Relative amino acid position [0-1]: 0.10789
+
+Residue at position 206 (Q) with codon CAA is affected by C->T mutation:
+Genomic coordinates for substrate sequence: 17:43095898..43095900 (strand: -1)
+Genomic sequence for substrate sequence: TGGGAGATCAAGAATTGTTACAAATCACCCCTCAAGGAAC
+Relative amino acid position [0-1]: 0.11004
+
+Residue at position 210 (Q) with codon CAA is affected by C->T mutation:
+Genomic coordinates for substrate sequence: 17:43095886..43095888 (strand: -1)
+Genomic sequence for substrate sequence: AATTGTTACAAATCACCCCTCAAGGAACCAGGGATGAAAT
+Relative amino acid position [0-1]: 0.11218
+
+Residue at position 240 (Q) with codon CAA is affected by C->T mutation:
+Genomic coordinates for substrate sequence: 17:43094811..43094813 (strand: -1)
+Genomic sequence for substrate sequence: TAACAAATACTGAACATCATCAACCCAGTAATAATGATTT
+Relative amino acid position [0-1]: 0.12829
+
+Residue at position 262 (Q) with codon CAG is affected by C->T mutation:
+Genomic coordinates for substrate sequence: 17:43094745..43094747 (strand: -1)
+Genomic sequence for substrate sequence: AGAGGCATCCAGAAAAGTATCAGGGTAGTTCTGTTTCAAA
+Relative amino acid position [0-1]: 0.1401
+
+Residue at position 284 (Q) with codon CAG is affected by C->T mutation:
+Genomic coordinates for substrate sequence: 17:43094679..43094681 (strand: -1)
+Genomic sequence for substrate sequence: ATACTCATGCCAGCTCATTACAGCATGAGAACAGCAGTTT
+Relative amino acid position [0-1]: 0.15191
+
+Residue at position 310 (Q) with codon CAG is affected by C->T mutation:
+Genomic coordinates for substrate sequence: 17:43094601..43094603 (strand: -1)
+Genomic sequence for substrate sequence: AATTCTGTAATAAAAGCAAACAGCCTGGCTTAGCAAGGAG
+Relative amino acid position [0-1]: 0.16586
+
+Residue at position 317 (Q) with codon CAA is affected by C->T mutation:
+Genomic coordinates for substrate sequence: 17:43094580..43094582 (strand: -1)
+Genomic sequence for substrate sequence: AGCCTGGCTTAGCAAGGAGCCAACATAACAGATGGGCTGG
+Relative amino acid position [0-1]: 0.16962
+
+Residue at position 356 (Q) with codon CAG is affected by C->T mutation:
+Genomic coordinates for substrate sequence: 17:43094463..43094465 (strand: -1)
+Genomic sequence for substrate sequence: AGAGAAAAGAATGGAATAAGCAGAAACTGCCATGCTCAGA
+Relative amino acid position [0-1]: 0.19055
+
+Residue at position 380 (Q) with codon CAG is affected by C->T mutation:
+Genomic coordinates for substrate sequence: 17:43094391..43094393 (strand: -1)
+Genomic sequence for substrate sequence: TAACACTAAATAGCAGCATTCAGAAAGTTAATGAGTGGTT
+Relative amino acid position [0-1]: 0.20344
+
+Residue at position 491 (Q) with codon CAG is affected by C->T mutation:
+Genomic coordinates for substrate sequence: 17:43094058..43094060 (strand: -1)
+Genomic sequence for substrate sequence: GAGCATTTGTTACTGAGCCACAGATAATACAAGAGCGTCC
+Relative amino acid position [0-1]: 0.26302
+
+Residue at position 494 (Q) with codon CAA is affected by C->T mutation:
+Genomic coordinates for substrate sequence: 17:43094049..43094051 (strand: -1)
+Genomic sequence for substrate sequence: TTACTGAGCCACAGATAATACAAGAGCGTCCCCTCACAAA
+Relative amino acid position [0-1]: 0.26463
+
+Residue at position 526 (Q) with codon CAA is affected by C->T mutation:
+Genomic coordinates for substrate sequence: 17:43093953..43093955 (strand: -1)
+Genomic sequence for substrate sequence: AGAAAGCAGATTTGGCAGTTCAAAAGACTCCTGAAATGAT
+Relative amino acid position [0-1]: 0.2818
+
+Residue at position 534 (Q) with codon CAG is affected by C->T mutation:
+Genomic coordinates for substrate sequence: 17:43093929..43093931 (strand: -1)
+Genomic sequence for substrate sequence: AGACTCCTGAAATGATAAATCAGGGAACTAACCAAACGGA
+Relative amino acid position [0-1]: 0.2861
+
+Residue at position 538 (Q) with codon CAA is affected by C->T mutation:
+Genomic coordinates for substrate sequence: 17:43093917..43093919 (strand: -1)
+Genomic sequence for substrate sequence: TGATAAATCAGGGAACTAACCAAACGGAGCAGAATGGTCA
+Relative amino acid position [0-1]: 0.28824
+
+Residue at position 541 (Q) with codon CAG is affected by C->T mutation:
+Genomic coordinates for substrate sequence: 17:43093908..43093910 (strand: -1)
+Genomic sequence for substrate sequence: AGGGAACTAACCAAACGGAGCAGAATGGTCAAGTGATGAA
+Relative amino acid position [0-1]: 0.28986
+
+Residue at position 544 (Q) with codon CAA is affected by C->T mutation:
+Genomic coordinates for substrate sequence: 17:43093899..43093901 (strand: -1)
+Genomic sequence for substrate sequence: ACCAAACGGAGCAGAATGGTCAAGTGATGAATATTACTAA
+Relative amino acid position [0-1]: 0.29147
+
+Residue at position 563 (Q) with codon CAG is affected by C->T mutation:
+Genomic coordinates for substrate sequence: 17:43093842..43093844 (strand: -1)
+Genomic sequence for substrate sequence: AAACAAAAGGTGATTCTATTCAGAATGAGAAAAATCCTAA
+Relative amino acid position [0-1]: 0.30166
+
+Residue at position 640 (Q) with codon CAA is affected by C->T mutation:
+Genomic coordinates for substrate sequence: 17:43093611..43093613 (strand: -1)
+Genomic sequence for substrate sequence: CACCTAATTGTACTGAATTGCAAATTGATAGTTGTTCTAG
+Relative amino acid position [0-1]: 0.343
+
+Residue at position 657 (Q) with codon CAA is affected by C->T mutation:
+Genomic coordinates for substrate sequence: 17:43093560..43093562 (strand: -1)
+Genomic sequence for substrate sequence: TAAAGAAAAAAAAGTACAACCAAATGCCAGTCAGGCACAG
+Relative amino acid position [0-1]: 0.35212
+
+Residue at position 667 (Q) with codon CAA is affected by C->T mutation:
+Genomic coordinates for substrate sequence: 17:43093530..43093532 (strand: -1)
+Genomic sequence for substrate sequence: TCAGGCACAGCAGAAACCTACAACTCATGGAAGGTAAAGA
+Relative amino acid position [0-1]: 0.35749
+
+Residue at position 687 (Q) with codon CAG is affected by C->T mutation:
+Genomic coordinates for substrate sequence: 17:43093470..43093472 (strand: -1)
+Genomic sequence for substrate sequence: AGAGTAACAAGCCAAATGAACAGACAAGTAAAAGACATGA
+Relative amino acid position [0-1]: 0.36822
+
+Residue at position 759 (Q) with codon CAA is affected by C->T mutation:
+Genomic coordinates for substrate sequence: 17:43093254..43093256 (strand: -1)
+Genomic sequence for substrate sequence: TAAGTGGAGAAAGGGTTTTGCAAACTGAAAGATCTGTAGA
+Relative amino acid position [0-1]: 0.40687
+
+Residue at position 780 (Q) with codon CAG is affected by C->T mutation:
+Genomic coordinates for substrate sequence: 17:43093191..43093193 (strand: -1)
+Genomic sequence for substrate sequence: CTGGTACTGATTATGGCACTCAGGAAAGTATCTCGTTACT
+Relative amino acid position [0-1]: 0.41814
+
+Residue at position 804 (Q) with codon CAG is affected by C->T mutation:
+Genomic coordinates for substrate sequence: 17:43093119..43093121 (strand: -1)
+Genomic sequence for substrate sequence: AACCAAATAAATGTGTGAGTCAGTGTGCAGCATTTGAAAA
+Relative amino acid position [0-1]: 0.43103
+
+Residue at position 855 (Q) with codon CAG is affected by C->T mutation:
+Genomic coordinates for substrate sequence: 17:43092966..43092968 (strand: -1)
+Genomic sequence for substrate sequence: AAGAAAGTGAACTTGATGCTCAGTATTTGCAGAATACATT
+Relative amino acid position [0-1]: 0.4584
+
+Residue at position 858 (Q) with codon CAG is affected by C->T mutation:
+Genomic coordinates for substrate sequence: 17:43092957..43092959 (strand: -1)
+Genomic sequence for substrate sequence: AACTTGATGCTCAGTATTTGCAGAATACATTCAAGGTTTC
+Relative amino acid position [0-1]: 0.46001
+
+Residue at position 867 (Q) with codon CAG is affected by C->T mutation:
+Genomic coordinates for substrate sequence: 17:43092930..43092932 (strand: -1)
+Genomic sequence for substrate sequence: CATTCAAGGTTTCAAAGCGCCAGTCATTTGCTCCGTTTTC
+Relative amino acid position [0-1]: 0.46484
+
+Residue at position 895 (Q) with codon CAA is affected by C->T mutation:
+Genomic coordinates for substrate sequence: 17:43092846..43092848 (strand: -1)
+Genomic sequence for substrate sequence: ACTCTGGGTCCTTAAAGAAACAAAGTCCAAAAGTCACTTT
+Relative amino acid position [0-1]: 0.47987
+
+Residue at position 905 (Q) with codon CAA is affected by C->T mutation:
+Genomic coordinates for substrate sequence: 17:43092816..43092818 (strand: -1)
+Genomic sequence for substrate sequence: AAGTCACTTTTGAATGTGAACAAAAGGAAGAAAATCAAGG
+Relative amino acid position [0-1]: 0.48524
+
+Residue at position 910 (Q) with codon CAA is affected by C->T mutation:
+Genomic coordinates for substrate sequence: 17:43092801..43092803 (strand: -1)
+Genomic sequence for substrate sequence: GTGAACAAAAGGAAGAAAATCAAGGAAAGAATGAGTCTAA
+Relative amino acid position [0-1]: 0.48792
+
+Residue at position 921 (Q) with codon CAG is affected by C->T mutation:
+Genomic coordinates for substrate sequence: 17:43092768..43092770 (strand: -1)
+Genomic sequence for substrate sequence: AGTCTAATATCAAGCCTGTACAGACAGTTAATATCACTGC
+Relative amino acid position [0-1]: 0.49383
+
+Residue at position 934 (Q) with codon CAG is affected by C->T mutation:
+Genomic coordinates for substrate sequence: 17:43092729..43092731 (strand: -1)
+Genomic sequence for substrate sequence: CAGGCTTTCCTGTGGTTGGTCAGAAAGATAAGCCAGTTGA
+Relative amino acid position [0-1]: 0.50081
+
+Residue at position 957 (Q) with codon CAG is affected by C->T mutation:
+Genomic coordinates for substrate sequence: 17:43092660..43092662 (strand: -1)
+Genomic sequence for substrate sequence: CTAGGTTTTGTCTATCATCTCAGTTCAGAGGCAACGAAAC
+Relative amino acid position [0-1]: 0.51315
+
+Residue at position 975 (Q) with codon CAA is affected by C->T mutation:
+Genomic coordinates for substrate sequence: 17:43092606..43092608 (strand: -1)
+Genomic sequence for substrate sequence: CAAATAAACATGGACTTTTACAAAACCCATATCGTATACC
+Relative amino acid position [0-1]: 0.52281
+
+Residue at position 1069 (Q) with codon CAA is affected by C->T mutation:
+Genomic coordinates for substrate sequence: 17:43092324..43092326 (strand: -1)
+Genomic sequence for substrate sequence: GTTCCAGTGATGAAAACATTCAAGCAGAACTAGGTAGAAA
+Relative amino acid position [0-1]: 0.57327
+
+Residue at position 1090 (Q) with codon CAA is affected by C->T mutation:
+Genomic coordinates for substrate sequence: 17:43092261..43092263 (strand: -1)
+Genomic sequence for substrate sequence: TGCTTAGATTAGGGGTTTTGCAACCTGAGGTCTATAAACA
+Relative amino acid position [0-1]: 0.58454
+
+Residue at position 1096 (Q) with codon CAA is affected by C->T mutation:
+Genomic coordinates for substrate sequence: 17:43092243..43092245 (strand: -1)
+Genomic sequence for substrate sequence: TGCAACCTGAGGTCTATAAACAAAGTCTTCCTGGAAGTAA
+Relative amino acid position [0-1]: 0.58776
+
+Residue at position 1111 (Q) with codon CAA is affected by C->T mutation:
+Genomic coordinates for substrate sequence: 17:43092198..43092200 (strand: -1)
+Genomic sequence for substrate sequence: AGCATCCTGAAATAAAAAAGCAAGAATATGAAGAAGTAGT
+Relative amino acid position [0-1]: 0.59581
+
+Residue at position 1118 (Q) with codon CAG is affected by C->T mutation:
+Genomic coordinates for substrate sequence: 17:43092177..43092179 (strand: -1)
+Genomic sequence for substrate sequence: AAGAATATGAAGAAGTAGTTCAGACTGTTAATACAGATTT
+Relative amino acid position [0-1]: 0.59957
+
+Residue at position 1135 (Q) with codon CAG is affected by C->T mutation:
+Genomic coordinates for substrate sequence: 17:43092126..43092128 (strand: -1)
+Genomic sequence for substrate sequence: TGATTTCAGATAACTTAGAACAGCCTATGGGAAGTAGTCA
+Relative amino acid position [0-1]: 0.6087
+
+Residue at position 1144 (Q) with codon CAG is affected by C->T mutation:
+Genomic coordinates for substrate sequence: 17:43092099..43092101 (strand: -1)
+Genomic sequence for substrate sequence: TGGGAAGTAGTCATGCATCTCAGGTTTGTTCTGAGACACC
+Relative amino acid position [0-1]: 0.61353
+
+Residue at position 1182 (Q) with codon CAG is affected by C->T mutation:
+Genomic coordinates for substrate sequence: 17:43091985..43091987 (strand: -1)
+Genomic sequence for substrate sequence: CTGTTTTTAGCAAAAGCGTCCAGAAAGGAGAGCTTAGCAG
+Relative amino acid position [0-1]: 0.63392
+
+Residue at position 1200 (Q) with codon CAG is affected by C->T mutation:
+Genomic coordinates for substrate sequence: 17:43091931..43091933 (strand: -1)
+Genomic sequence for substrate sequence: TCACCCATACACATTTGGCTCAGGGTTACCGAAGAGGGGC
+Relative amino acid position [0-1]: 0.64359
+
+Residue at position 1203 (R) with codon CGA is affected by C->T mutation:
+Genomic coordinates for substrate sequence: 17:43091922..43091924 (strand: -1)
+Genomic sequence for substrate sequence: CACATTTGGCTCAGGGTTACCGAAGAGGGGCCAAGAAATT
+Relative amino acid position [0-1]: 0.6452
+
+Residue at position 1227 (Q) with codon CAA is affected by C->T mutation:
+Genomic coordinates for substrate sequence: 17:43091850..43091852 (strand: -1)
+Genomic sequence for substrate sequence: ATGAAGAGCTTCCCTGCTTCCAACACTTGTTATTTGGTAA
+Relative amino acid position [0-1]: 0.65808
+
+Residue at position 1240 (Q) with codon CAG is affected by C->T mutation:
+Genomic coordinates for substrate sequence: 17:43091811..43091813 (strand: -1)
+Genomic sequence for substrate sequence: AAGTAAACAATATACCTTCTCAGTCTACTAGGCATAGCAC
+Relative amino acid position [0-1]: 0.66506
+
+Residue at position 1273 (Q) with codon CAG is affected by C->T mutation:
+Genomic coordinates for substrate sequence: 17:43091712..43091714 (strand: -1)
+Genomic sequence for substrate sequence: GCTTAAATGACTGCAGTAACCAGGTAATATTGGCAAAGGC
+Relative amino acid position [0-1]: 0.68277
+
+Residue at position 1281 (Q) with codon CAG is affected by C->T mutation:
+Genomic coordinates for substrate sequence: 17:43091688..43091690 (strand: -1)
+Genomic sequence for substrate sequence: TAATATTGGCAAAGGCATCTCAGGAACATCACCTTAGTGA
+Relative amino acid position [0-1]: 0.68706
+
+Residue at position 1299 (Q) with codon CAG is affected by C->T mutation:
+Genomic coordinates for substrate sequence: 17:43091634..43091636 (strand: -1)
+Genomic sequence for substrate sequence: CTGCTAGCTTGTTTTCTTCACAGTGCAGTGAATTGGAAGA
+Relative amino acid position [0-1]: 0.69673
+
+Residue at position 1313 (Q) with codon CAG is affected by C->T mutation:
+Genomic coordinates for substrate sequence: 17:43091592..43091594 (strand: -1)
+Genomic sequence for substrate sequence: TGACTGCAAATACAAACACCCAGGATCCTTTCTTGATTGG
+Relative amino acid position [0-1]: 0.70424
+
+Residue at position 1323 (Q) with codon CAA is affected by C->T mutation:
+Genomic coordinates for substrate sequence: 17:43091562..43091564 (strand: -1)
+Genomic sequence for substrate sequence: TCTTGATTGGTTCTTCCAAACAAATGAGGCATCAGTCTGA
+Relative amino acid position [0-1]: 0.70961
+
+Residue at position 1327 (Q) with codon CAG is affected by C->T mutation:
+Genomic coordinates for substrate sequence: 17:43091550..43091552 (strand: -1)
+Genomic sequence for substrate sequence: CTTCCAAACAAATGAGGCATCAGTCTGAAAGCCAGGGAGT
+Relative amino acid position [0-1]: 0.71176
+
+Residue at position 1331 (Q) with codon CAG is affected by C->T mutation:
+Genomic coordinates for substrate sequence: 17:43091538..43091540 (strand: -1)
+Genomic sequence for substrate sequence: TGAGGCATCAGTCTGAAAGCCAGGGAGTTGGTCTGAGTGA
+Relative amino acid position [0-1]: 0.7139
+
+Residue at position 1356 (Q) with codon CAA is affected by C->T mutation:
+Genomic coordinates for substrate sequence: 17:43091463..43091465 (strand: -1)
+Genomic sequence for substrate sequence: CGGGCTTGGAAGAAAATAATCAAGAAGAGCAAAGCATGGA
+Relative amino acid position [0-1]: 0.72732
+
+Residue at position 1359 (Q) with codon CAA is affected by C->T mutation:
+Genomic coordinates for substrate sequence: 17:43091454..43091456 (strand: -1)
+Genomic sequence for substrate sequence: AAGAAAATAATCAAGAAGAGCAAAGCATGGATTCAAACTT
+Relative amino acid position [0-1]: 0.72893
+
+Residue at position 1388 (Q) with codon CAG is affected by C->T mutation:
+Genomic coordinates for substrate sequence: 17:43090965..43090967 (strand: -1)
+Genomic sequence for substrate sequence: ACTGCTCAGGGCTATCCTCTCAGAGTGACATTTTAACCAC
+Relative amino acid position [0-1]: 0.7445
+
+Residue at position 1395 (Q) with codon CAG is affected by C->T mutation:
+Genomic coordinates for substrate sequence: 17:43090944..43090946 (strand: -1)
+Genomic sequence for substrate sequence: AGAGTGACATTTTAACCACTCAGGTAAAAAGCGTGTGTGT
+Relative amino acid position [0-1]: 0.74826
+
+Residue at position 1396 (Q) with codon CAG is affected by C->T mutation:
+Genomic coordinates for substrate sequence: 17:43082573..43082575 (strand: -1)
+Genomic sequence for substrate sequence: GCCATTTATCGTTTTTGAAGCAGAGGGATACCATGCAACA
+Relative amino acid position [0-1]: 0.74879
+
+Residue at position 1401 (Q) with codon CAA is affected by C->T mutation:
+Genomic coordinates for substrate sequence: 17:43082558..43082560 (strand: -1)
+Genomic sequence for substrate sequence: TGAAGCAGAGGGATACCATGCAACATAACCTGATAAAGCT
+Relative amino acid position [0-1]: 0.75148
+
+Residue at position 1408 (Q) with codon CAG is affected by C->T mutation:
+Genomic coordinates for substrate sequence: 17:43082537..43082539 (strand: -1)
+Genomic sequence for substrate sequence: AACATAACCTGATAAAGCTCCAGCAGGAAATGGCTGAACT
+Relative amino acid position [0-1]: 0.75523
+
+Residue at position 1409 (Q) with codon CAG is affected by C->T mutation:
+Genomic coordinates for substrate sequence: 17:43082534..43082536 (strand: -1)
+Genomic sequence for substrate sequence: ATAACCTGATAAAGCTCCAGCAGGAAATGGCTGAACTAGA
+Relative amino acid position [0-1]: 0.75577
+
+Residue at position 1420 (Q) with codon CAG is affected by C->T mutation:
+Genomic coordinates for substrate sequence: 17:43082501..43082503 (strand: -1)
+Genomic sequence for substrate sequence: AACTAGAAGCTGTGTTAGAACAGCATGGGAGCCAGCCTTC
+Relative amino acid position [0-1]: 0.76167
+
+Residue at position 1424 (Q) with codon CAG is affected by C->T mutation:
+Genomic coordinates for substrate sequence: 17:43082489..43082491 (strand: -1)
+Genomic sequence for substrate sequence: TGTTAGAACAGCATGGGAGCCAGCCTTCTAACAGCTACCC
+Relative amino acid position [0-1]: 0.76382
+
+Residue at position 1443 (R) with codon CGA is affected by C->T mutation:
+Genomic coordinates for substrate sequence: 17:43082432..43082434 (strand: -1)
+Genomic sequence for substrate sequence: CTTCTGCCCTTGAGGACCTGCGAAATCCAGAACAAAGCAC
+Relative amino acid position [0-1]: 0.77402
+
+Residue at position 1447 (Q) with codon CAA is affected by C->T mutation:
+Genomic coordinates for substrate sequence: 17:43082420..43082422 (strand: -1)
+Genomic sequence for substrate sequence: AGGACCTGCGAAATCCAGAACAAAGCACATCAGAAAAAGG
+Relative amino acid position [0-1]: 0.77617
+
+Residue at position 1458 (Q) with codon CAG is affected by C->T mutation:
+Genomic coordinates for substrate sequence: 17:43076598..43076600 (strand: -1)
+Genomic sequence for substrate sequence: TTAAAGCAGTATTAACTTCACAGAAAAGTAGTGAATACCC
+Relative amino acid position [0-1]: 0.78207
+
+Residue at position 1467 (Q) with codon CAG is affected by C->T mutation:
+Genomic coordinates for substrate sequence: 17:43076571..43076573 (strand: -1)
+Genomic sequence for substrate sequence: GTAGTGAATACCCTATAAGCCAGAATCCAGAAGGCCTTTC
+Relative amino acid position [0-1]: 0.7869
+
+Residue at position 1518 (Q) with codon CAG is affected by C->T mutation:
+Genomic coordinates for substrate sequence: 17:43074452..43074454 (strand: -1)
+Genomic sequence for substrate sequence: ACAGTTGCTCTGGGAGTCTTCAGAATAGAAACTACCCATC
+Relative amino acid position [0-1]: 0.81428
+
+Residue at position 1525 (Q) with codon CAA is affected by C->T mutation:
+Genomic coordinates for substrate sequence: 17:43074431..43074433 (strand: -1)
+Genomic sequence for substrate sequence: AGAATAGAAACTACCCATCTCAAGAGGAGCTCATTAAGGT
+Relative amino acid position [0-1]: 0.81804
+
+Residue at position 1537 (Q) with codon CAA is affected by C->T mutation:
+Genomic coordinates for substrate sequence: 17:43074395..43074397 (strand: -1)
+Genomic sequence for substrate sequence: AGGTTGTTGATGTGGAGGAGCAACAGCTGGAAGAGTCTGG
+Relative amino acid position [0-1]: 0.82448
+
+Residue at position 1538 (Q) with codon CAG is affected by C->T mutation:
+Genomic coordinates for substrate sequence: 17:43074392..43074394 (strand: -1)
+Genomic sequence for substrate sequence: TTGTTGATGTGGAGGAGCAACAGCTGGAAGAGTCTGGGCC
+Relative amino acid position [0-1]: 0.82501
+
+Residue at position 1556 (Q) with codon CAA is affected by C->T mutation:
+Genomic coordinates for substrate sequence: 17:43074338..43074340 (strand: -1)
+Genomic sequence for substrate sequence: AAACATCTTACTTGCCAAGGCAAGATCTAGGTAATATTTC
+Relative amino acid position [0-1]: 0.83468
+
+Residue at position 1604 (Q) with codon CAA is affected by C->T mutation:
+Genomic coordinates for substrate sequence: 17:43071102..43071104 (strand: -1)
+Genomic sequence for substrate sequence: CCTCTGCATTGAAAGTTCCCCAATTGAAAGTTGCAGAATC
+Relative amino acid position [0-1]: 0.86044
+
+Residue at position 1612 (Q) with codon CAG is affected by C->T mutation:
+Genomic coordinates for substrate sequence: 17:43071078..43071080 (strand: -1)
+Genomic sequence for substrate sequence: TGAAAGTTGCAGAATCTGCCCAGAGTCCAGCTGCTGCTCA
+Relative amino acid position [0-1]: 0.86473
+
+Residue at position 1721 (Q) with codon CAG is affected by C->T mutation:
+Genomic coordinates for substrate sequence: 17:43063363..43063365 (strand: -1)
+Genomic sequence for substrate sequence: TGATCTCTTTAGGGGTGACCCAGTCTATTAAAGAAAGAAA
+Relative amino acid position [0-1]: 0.92324
+
+Residue at position 1747 (Q) with codon CAA is affected by C->T mutation:
+Genomic coordinates for substrate sequence: 17:43057088..43057090 (strand: -1)
+Genomic sequence for substrate sequence: TGGTCAATGGAAGAAACCACCAAGGTCCAAAGCGAGCAAG
+Relative amino acid position [0-1]: 0.9372
+
+Residue at position 1751 (R) with codon CGA is affected by C->T mutation:
+Genomic coordinates for substrate sequence: 17:43057076..43057078 (strand: -1)
+Genomic sequence for substrate sequence: GAAACCACCAAGGTCCAAAGCGAGCAAGAGAATCCCAGGA
+Relative amino acid position [0-1]: 0.93935
+
+Residue at position 1756 (Q) with codon CAG is affected by C->T mutation:
+Genomic coordinates for substrate sequence: 17:43057061..43057063 (strand: -1)
+Genomic sequence for substrate sequence: CAAAGCGAGCAAGAGAATCCCAGGACAGAAAGGTAAAGCT
+Relative amino acid position [0-1]: 0.94203
+
+Residue at position 1779 (Q) with codon CAA is affected by C->T mutation:
+Genomic coordinates for substrate sequence: 17:43049190..43049192 (strand: -1)
+Genomic sequence for substrate sequence: TCTAAATGTCCATTTTAGATCAACTGGAATGGATGGTACA
+Relative amino acid position [0-1]: 0.95437
+
+Residue at position 1785 (Q) with codon CAG is affected by C->T mutation:
+Genomic coordinates for substrate sequence: 17:43049172..43049174 (strand: -1)
+Genomic sequence for substrate sequence: ATCAACTGGAATGGATGGTACAGCTGTGTGGTGCTTCTGT
+Relative amino acid position [0-1]: 0.9576
+
+Residue at position 1811 (Q) with codon CAG is affected by C->T mutation:
+Genomic coordinates for substrate sequence: 17:43047677..43047679 (strand: -1)
+Genomic sequence for substrate sequence: TCCACCCAATTGTGGTTGTGCAGCCAGATGCCTGGACAGA
+Relative amino acid position [0-1]: 0.97155
+
+Residue at position 1826 (Q) with codon CAG is affected by C->T mutation:
+Genomic coordinates for substrate sequence: 17:43045792..43045794 (strand: -1)
+Genomic sequence for substrate sequence: CTCTGTCTCCAGCAATTGGGCAGATGTGTGAGGCACCTGT
+Relative amino acid position [0-1]: 0.9796
+
+Residue at position 1835 (R) with codon CGA is affected by C->T mutation:
+Genomic coordinates for substrate sequence: 17:43045765..43045767 (strand: -1)
+Genomic sequence for substrate sequence: GTGAGGCACCTGTGGTGACCCGAGAGTGGGTGTTGGACAG
+Relative amino acid position [0-1]: 0.98443
+
+Residue at position 1846 (Q) with codon CAG is affected by C->T mutation:
+Genomic coordinates for substrate sequence: 17:43045732..43045734 (strand: -1)
+Genomic sequence for substrate sequence: TGGACAGTGTAGCACTCTACCAGTGCCAGGAGCTGGACAC
+Relative amino acid position [0-1]: 0.99034
+
+Residue at position 1848 (Q) with codon CAG is affected by C->T mutation:
+Genomic coordinates for substrate sequence: 17:43045726..43045728 (strand: -1)
+Genomic sequence for substrate sequence: GTGTAGCACTCTACCAGTGCCAGGAGCTGGACACCTACCT
+Relative amino acid position [0-1]: 0.99141
+
+Residue at position 1857 (Q) with codon CAG is affected by C->T mutation:
+Genomic coordinates for substrate sequence: 17:43045699..43045701 (strand: -1)
+Genomic sequence for substrate sequence: TGGACACCTACCTGATACCCCAGATCCCCCACAGCCACTA
+Relative amino acid position [0-1]: 0.99624

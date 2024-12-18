@@ -1,16 +1,24 @@
 name: protectio
 channels:
-  - defaults
+  - conda-forge
 dependencies:
   - python=3.8
-  - regex
-  - wget
-  - pip
+  - regex=2024.7.24
+  - wget=1.21.4
+  - jq=1.7.1
+  - biopython=1.83
+  - requests=2.32.3
+  - parallel=20240722
+  - numpy=1.24.4
+  - pandas=2.0.3
+  - matplotlib
+  - seaborn
+  - pip=24.2
   - pip:
-    - einops
+    - einops==0.8.0
     - transformers==4.29.2
-    - peft
-    - omegaconf
-    - torch
-    - evaluate
-    - accelerate
+    - peft==0.12.0
+    - omegaconf==2.3.0
+    - torch==2.2.2
+    - evaluate==0.4.2
+    - accelerate==0.34.2

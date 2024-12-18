@@ -268,10 +268,10 @@ echo "|                  Download RefEx databases                         |"
 echo "---------------------------------------------------------------------"
 echo "Download RefEx database"
 # Download RefEx database
-mkdir ${arg_outpur_dir_name}/refex_db;
+mkdir ${arg_outpur_dir_name}"/refex_db";
 if [ ${arg_database} = "Human" ]; then
   # RefEx_sample_ann_genechip_human_GSE7307.tsv.zip
-  wget -P ${arg_outpur_dir_name}/refex_db https://dx.doi.org/10.6084/m9.figshare.4028691;
+  wget -P ${arg_outpur_dir_name}"/refex_db" https://dx.doi.org/10.6084/m9.figshare.4028691;
   db_data="RefEx_sample_ann_genechip_human_GSE7307.tsv";
 else
   echo "Unexpected Error."
@@ -285,9 +285,124 @@ echo "---------------------------------------------------------------------"
 echo "|                  Retrieve Ensembl ID using Togo ID                 |"
 echo "---------------------------------------------------------------------"
 
-# @TODO：affy2ensg.pyを改変してコマンドライン引数を受け付けるようにする
-python ./affy2ensg.py
+echo "Access TogoID..."
+python ./affy2ensg.py ${db_data} ${arg_outpur_dir_name}"/affyprobe_enst.json"
+echo "Complete downloading Ensembl ID list"
 
+echo "----------------------------------------------------------------------------------"
+echo "|                  Retrieve Transcript sequence from Ensembl DB                  |"
+echo "----------------------------------------------------------------------------------"
+
+target_file_arr=()
+mkdir ${arg_outpur_dir_name}"/genelist"
+mkdir ${arg_outpur_dir_name}"/prediction_targets"
+jq -c '.[] | .results[]' ${arg_outpur_dir_name}"/affyprobe_enst.json" | while read -r result; do
+    affy_probeset_id=$(echo "$result" | jq -r '.[0]')
+    ensembl_transcript_id=$(echo "$result" | jq -r '.[1]')
+    echo "Affymetrix probeset ID: "${affy_probeset_id}", Ensembl transcript ID: "${ensembl_transcript_id}
+    mkdir --ignore-fail-on-non-empty ${arg_outpur_dir_name}"/genelist/"${affy_probeset_id};
+    transcript_fasta_fn=${arg_outpur_dir_name}"/genelist"${affy_probeset_id}"/"${ensembl_transcript_id}".fasta"
+    echo "Download "${ensembl_transcript_id}" sequence: "${transcript_fasta_fn}"..."
+    
+    wget -q --header='Content-type:text/plain' "https://rest.ensembl.org/sequence/id/"${ensembl_transcript_id}"?" \
+    -O ${transcript_fasta_fn} -;
+    # REST API is rate-limited at 55,000 requests per hour. 
+    # We set interval so that the 50,000 (<55,000) sequences can be downloaded per hour.
+    # Maximum sequence that can be downloaded with in 1 sec: 50,000/60/60 = 13.88888889 [sequences]
+    # 1[sec] / 13.88888889 = 0.072
+    sleep 0.072;
+    # Convert oneline
+    awk '!/^>/ { printf "%s", $0; n = "\n" } /^>/ { print n $0; n = "" }END { printf "%s", n }' \
+    ${transcript_fasta_fn} \
+    > ${transcript_fasta_fn}; # Remove \n in sequences
+
+    # Extract potential substrate sequence
+    echo "Extract potential substrate sequences...";
+    mkdir ${arg_outpur_dir_name}"/prediction_targets/"${affy_probeset_id}"/"${ensembl_transcript_id};
+    pred_target_fn=${arg_outpur_dir_name}"/prediction_targets/"${affy_probeset_id}"/"${ensembl_transcript_id}"/target.csv";
+    if [ ${arg_editor} = "ABE" ]; then
+      echo "Sorry... The ${arg_editor} option has not yet been implemented. Please wait for a while."
+      echo "PROTECTiO.sh aborts..."
+      exit 1;
+    elif [ ${arg_editor} = "CBE" ] ]; then
+      echo "Use "${arg_editor}" Prediction Model..."
+      # Extract cDNA sequence
+      transcript_seq_fn=${arg_outpur_dir_name}"/prediction_targets/"${affy_probeset_id}"/"${ensembl_transcript_id}"/target_sequence.txt"
+      transcript_len_fn=${arg_outpur_dir_name}"/prediction_targets/"${affy_probeset_id}"/"${ensembl_transcript_id}"/target_length.txt"
+      awk '
+      BEGIN {
+          seq_id = ""
+          seq_length = 0
+      }
+      {
+          if ($0 ~ /^>/) {
+              seq_id = substr($0, 2)
+              seq_length = 0
+              seq = ""
+          } else {
+              seq_length += length($0)
+              seq = seq $0
+          }
+      }
+      END {
+          if (seq_id != "") {
+              seq >> "'"$transcript_seq_fn"'"
+              seq_length >> "'"$transcript_len_fn"'"
+          }
+      }
+      ' ${transcript_fasta_fn}
+      # CBE substrate: NNNNNNNNNNNNNNNNNNNNCNNNNNNNNNNNNNNNNNNNN
+      python get_cbe_substrate_20nt.py `cat ${transcript_seq_fn}` ${pred_target_fn};
+      exit_status=$?
+      if [ $exit_status -eq 0 ]; then
+          target_file_arr+=(${pred_target_fn})
+      else
+          echo "Error occurs in get_cbe_substrate_20nt.py"
+          echo "Skip "${transcript_fasta_fn}"..."
+      fi
+    else
+      echo "The "${arg_editor}" is not allowed as the input. Please check the below help"
+      usage
+      echo "PROTECTiO.sh aborts..."
+      exit 1;
+    fi
+done
+
+# @TODO：Transcriptごとに下記を実行するスクリプトを書く、${target_file_arr[@]}でプリフィクスを抽出する処理をかければ問題ない
+# CSVファイルのヘッダーを作成
+header="Sequence,Label"
+if [ ${arg_editor} = "ABE" ]; then
+  echo "Sorry... The ${arg_editor} option has not yet been implemented. Please wait for a while."
+  echo "PROTECTiO.sh aborts..."
+  exit 1;
+elif [ ${arg_editor} = "CBE" ] ]; then
+  for dna_fasta in "${target_file_arr[@]}"; do
+      # prediction target file
+      echo "Target file: "${dna_fasta};
+      # prediction result file
+      label_csv=$(dirname ${dna_fasta})"/eval_res.csv";
+      echo ${header} > ${label_csv};
+      while IFS= read -r dna_sequence
+      do
+          eval_output=$(python pred_rna_offtarget.py ${dna_sequence} ./DNABERT-2-CBE_Suzuki_v1/);
+          echo ${eval_output} >> ${label_csv};
+      done < ${dna_fasta}
+      # Calcurate effective substrate dencity (effective C substrate / all C substrate / transcript length )
+      all_c_substrate=$(wc -l < ${label_csv})
+      effective_c_substrate=$(grep -c "$search_string" "$input_file")
+      transcript_length=`cat $(dirname ${dna_fasta})"/target_length.txt"`
+      calc_eff_substrate_density=$(python calc_eff_substrate_density.py ${effective_c_substrate}, ${all_c_substrate}, ${transcript_length})
+      echo ${calc_eff_substrate_density} >> $(dirname ${dna_fasta})"/eff_substrate_density.txt";
+  done
+else
+  echo "The "${arg_editor}" is not allowed as the input. Please check the below help"
+  usage
+  echo "PROTECTiO.sh aborts..."
+  exit 1;
+fi
+
+# ここまでこればリスク判定データベースが完成
+# 別スクリプトで期間ごとのリスク情報を抽出できるようにする
 
 echo "done."
 echo "--------------------------------------------------------------"

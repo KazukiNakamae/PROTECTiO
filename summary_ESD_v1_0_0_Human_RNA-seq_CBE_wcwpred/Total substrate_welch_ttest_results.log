@@ -1,0 +1,61 @@
+Welch's t-test results for Total substrate, comparing All vs other tissues:
+Comparing v12_lymphnode vs All with alpha=0.0500000000:
+  t-statistic: -8.241145045235202, p-value: 2.3155883600893325e-16
+  Statistically significant difference (p-value < 0.0500000000)
+--------------------------------------------------
+Comparing v17_adipose vs All with alpha=0.0500000000:
+  t-statistic: -0.8147897326876302, p-value: 0.41532826439210335
+  No statistically significant difference (p-value >= 0.0500000000)
+--------------------------------------------------
+Comparing v1_cerebrum vs All with alpha=0.0500000000:
+  t-statistic: 2.580233182808391, p-value: 0.009896043007631116
+  Statistically significant difference (p-value < 0.0500000000)
+--------------------------------------------------
+Comparing v22_prostate vs All with alpha=0.0500000000:
+  t-statistic: -5.018068706060492, p-value: 5.545689338188313e-07
+  Statistically significant difference (p-value < 0.0500000000)
+--------------------------------------------------
+Comparing v23_ovary vs All with alpha=0.0500000000:
+  t-statistic: 4.082705441181061, p-value: 4.590562708589188e-05
+  Statistically significant difference (p-value < 0.0500000000)
+--------------------------------------------------
+Comparing v24_testis vs All with alpha=0.0500000000:
+  t-statistic: 4.917800359138946, p-value: 8.898655216008798e-07
+  Statistically significant difference (p-value < 0.0500000000)
+--------------------------------------------------
+Comparing v25_heart vs All with alpha=0.0500000000:
+  t-statistic: 4.325399792360288, p-value: 1.643415657910725e-05
+  Statistically significant difference (p-value < 0.0500000000)
+--------------------------------------------------
+Comparing v26_muscle vs All with alpha=0.0500000000:
+  t-statistic: 5.809745879417776, p-value: 7.347990663809049e-09
+  Statistically significant difference (p-value < 0.0500000000)
+--------------------------------------------------
+Comparing v30_colon vs All with alpha=0.0500000000:
+  t-statistic: -1.583509898873747, p-value: 0.11354899919103256
+  No statistically significant difference (p-value >= 0.0500000000)
+--------------------------------------------------
+Comparing v31_liver_hepato vs All with alpha=0.0500000000:
+  t-statistic: -11.378482119370451, p-value: 2.596537275111411e-29
+  Statistically significant difference (p-value < 0.0500000000)
+--------------------------------------------------
+Comparing v32_lung vs All with alpha=0.0500000000:
+  t-statistic: -7.830636415033095, p-value: 6.128857214951495e-15
+  Statistically significant difference (p-value < 0.0500000000)
+--------------------------------------------------
+Comparing v34_kidney vs All with alpha=0.0500000000:
+  t-statistic: -6.331693657345693, p-value: 2.7620722246181673e-10
+  Statistically significant difference (p-value < 0.0500000000)
+--------------------------------------------------
+Comparing v36_thyroid_parathyroid vs All with alpha=0.0500000000:
+  t-statistic: 3.4439941875410955, p-value: 0.0005819585278040706
+  Statistically significant difference (p-value < 0.0500000000)
+--------------------------------------------------
+Comparing v37_adrenal_gland vs All with alpha=0.0500000000:
+  t-statistic: -6.868803075998008, p-value: 7.673327579668591e-12
+  Statistically significant difference (p-value < 0.0500000000)
+--------------------------------------------------
+Comparing v39_breast vs All with alpha=0.0500000000:
+  t-statistic: -3.9076095998845926, p-value: 9.670690662283644e-05
+  Statistically significant difference (p-value < 0.0500000000)
+--------------------------------------------------

@@ -1,0 +1,2 @@
+condition,classifier,rep,Accuracy,Precision,Recall,F1 Score,MCC
+ACW_non_motif,sv1pred,1,0.679,0.7168971350190725,0.679,0.6643379458109689,0.3940791147392308
